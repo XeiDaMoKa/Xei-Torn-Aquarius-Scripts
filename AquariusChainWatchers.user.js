@@ -4,7 +4,7 @@
 // @description  Displays who's currently watching the chain with easy status edit using notion database board view
 // @author       You
 // @match        https://www.torn.com/*
-// @match        https://www.notion.so/xeidamoka/7b1df988e9264e35a22fa1eba6ae5ff9?v=adb54d85b879482684c66222a11fc5cc
+// @match        https://www.notion.so/xeidamoka/27e99a61d7934bf0a000c216f4929bfb?v=9dff1754141e45b6b06036d75935b7f4
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @grant          GM_addStyle
 // ==/UserScript==
@@ -61,7 +61,7 @@
             $('#chainHelperIcon').on('click', function(event) {
                 event.preventDefault();
                 event.stopPropagation();
-                openFloatingWindow("https://www.notion.so/xeidamoka/7b1df988e9264e35a22fa1eba6ae5ff9?v=adb54d85b879482684c66222a11fc5cc", 392, 250);
+                openFloatingWindow("https://www.notion.so/xeidamoka/27e99a61d7934bf0a000c216f4929bfb?v=9dff1754141e45b6b06036d75935b7f4", 392, 250);
             });
         }
     }
