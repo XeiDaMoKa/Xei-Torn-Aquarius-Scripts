@@ -5,6 +5,10 @@
 // @author       You
 // @match        https://www.torn.com/*
 // @match        https://www.notion.so/xeidamoka/27e99a61d7934bf0a000c216f4929bfb?v=9dff1754141e45b6b06036d75935b7f4
+// @homepageURL   https://github.com/XeiDaMoKa/Xei-Torn-Aquarius-Scripts/blob/Xei/AquariusChainWatchers.user.js
+// @downloadURL   https://github.com/XeiDaMoKa/Xei-Torn-Aquarius-Scripts/raw/Xei/AquariusChainWatchers.user.js
+// @updateURL     https://github.com/XeiDaMoKa/Xei-Torn-Aquarius-Scripts/raw/Xei/AquariusChainWatchers.user.js
+// @supportURL    https://github.com/XeiDaMoKa/Xei-Torn-Aquarius-Scripts/issues
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
 // @grant          GM_addStyle
 // ==/UserScript==
